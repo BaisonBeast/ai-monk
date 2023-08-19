@@ -2,7 +2,7 @@
 
 A web application for visualizing and managing a nested tags tree structure. This application allows you to create, modify, collapse, and export a hierarchical tree of tags with associated data.
 
-![Screenshot](screenshot.png)
+![HostedLink](https://nestedtreeds.netlify.app/)
 
 ## Features
 
